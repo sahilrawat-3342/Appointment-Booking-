@@ -1,5 +1,3 @@
-**Sponsor This Project**
-https://buymeacoffee.com/mixmemes
 
 # 🏥 Doctor Appointment System
 
